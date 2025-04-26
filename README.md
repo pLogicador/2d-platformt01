@@ -1,4 +1,4 @@
-# 🕹️ 2D Platformer Game
+# 🕹️ 2D Platformer Game Example
 
 Este é um jogo de plataforma 2D simples feito com Python e Pygame Zero, onde o jogador coleta moedas, evita obstáculos e inimigos, e tenta vencer o jogo!
 
